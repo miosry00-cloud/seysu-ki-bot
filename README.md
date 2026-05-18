@@ -32,4 +32,5 @@ Diese Dokumente dienen der offiziellen Discord-Bot-Verifizierung:
 
 ---
 Bei Fragen oder hilfe wendet euch auf discord an t4ran__
+
 *Entwickelt von t4ran__*
